@@ -47,6 +47,26 @@ The official package changelog explicitly credits
 
 ---
 
+### FlutterYoutube — Merged Contribution (2019)
+
+**[Merged PR #53 — Android App Bar Visibility](https://github.com/ponnamkarthik/FlutterYoutube/pull/53)**
+
+Extended a Flutter YouTube player plugin with configurable
+Android Action Bar visibility.
+
+The implementation included changes to the public Dart API,
+Flutter platform communication, and native Android Java code.
+
+The contribution received positive feedback during code review
+and was merged into the upstream repository in December 2019.
+
+**Reviewer feedback:**
+> "Perfect."
+
+[View the original review and merged implementation](https://github.com/ponnamkarthik/FlutterYoutube/pull/53)
+
+---
+
 ## Flutter Health Plugin — Cross-Platform Extension (2024)
 
 **Project:** [CACHET Flutter Plugins](https://github.com/carp-dk/flutter-plugins)
